@@ -43,11 +43,6 @@ OUTPUT:
 
 
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a6542696-fb6d-48fe-8f11-d2133270bff8" />
-
-
-
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/50753f85-b0d1-4ab0-a936-f6625573a49f" />
 
 
 
